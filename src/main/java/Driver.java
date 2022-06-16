@@ -16,6 +16,9 @@ public class Driver {
 		
 		System.out.println("Count:" + counter.getCount());
 		System.out.println("Completed for testing!");
+		System.out.println("Completed for testing!");
+		System.out.println("Completed for testing!");
+		System.out.println("Completed for testing!");
 		
 	}
 
